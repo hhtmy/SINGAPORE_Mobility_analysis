@@ -1,9 +1,6 @@
-# SINGAPORE_Mobility_analysis 
-
 COVID ANALYSIS OF SINGAPORE 
 
-# COVID_AND_MOBILITY_ANALYSIS - Code and Graphs of covid data analysis and geospatial analysis
-
+COVID_AND_MOBILITY_ANALYSIS - Graphs illustrating COVID-19 data analysis in Singapore using Tableau data visualization. This repository contains analyses and graphs related to the COVID-19 waves.
 <img width="518" alt="image" src="https://github.com/hhtmy/COVID_AND_MOBILITY_ANALYSIS/assets/126352630/08ad79cf-b713-44fb-9947-42211fd5f1a4">
 
 <img width="483" alt="image" src="https://github.com/hhtmy/COVID_AND_MOBILITY_ANALYSIS/assets/126352630/ca684692-c16f-4960-8afa-1215680bd074">
