@@ -1,6 +1,7 @@
-COVID ANALYSIS OF SINGAPORE 
+COVID AND GEO-SPATIAL ANALYSIS OF SINGAPORE 
 
 COVID_AND_MOBILITY_ANALYSIS - Graphs illustrating COVID-19 data analysis in Singapore using Tableau data visualization. This repository contains analyses and graphs related to the COVID-19 waves.
+
 <img width="518" alt="image" src="https://github.com/hhtmy/COVID_AND_MOBILITY_ANALYSIS/assets/126352630/08ad79cf-b713-44fb-9947-42211fd5f1a4">
 
 <img width="483" alt="image" src="https://github.com/hhtmy/COVID_AND_MOBILITY_ANALYSIS/assets/126352630/ca684692-c16f-4960-8afa-1215680bd074">
@@ -18,6 +19,10 @@ COVID_AND_MOBILITY_ANALYSIS - Graphs illustrating COVID-19 data analysis in Sing
 <img width="478" alt="image" src="https://github.com/hhtmy/COVID_AND_MOBILITY_ANALYSIS/assets/126352630/b37c42db-a6d2-438f-bba9-69268a60321f">
 
 <img width="482" alt="image" src="https://github.com/hhtmy/COVID_AND_MOBILITY_ANALYSIS/assets/126352630/7791a36a-d207-4ba8-8383-3f28906e271f">
+
+Density map of Singapore's COVID-19 cases based on months, including spatial distribution information.
+
+<img width="392" alt="image" src="https://github.com/hhtmy/SINGAPORE_Mobility_analysis/assets/126352630/5e71c68b-b002-481c-b98b-3bc6ec94ce36">
 
 
 
